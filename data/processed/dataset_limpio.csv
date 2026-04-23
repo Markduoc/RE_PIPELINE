@@ -1,0 +1,1001 @@
+UserID,Age,Gender,VRHeadset,Duration,MotionSickness,ImmersionLevel,AgeGroup,SessionCategory,HighImmersion,SevereSickness
+1,40,Male,Htc Vive,13.6,8,5,Adulto,Corta,True,True
+2,43,Female,Htc Vive,19.95,2,2,Adulto,Media,False,False
+3,27,Male,Playstation Vr,16.54,4,2,Adulto joven,Media,False,False
+4,33,Male,Htc Vive,42.57,6,3,Adulto joven,Larga,False,False
+5,51,Male,Playstation Vr,22.45,4,2,Adulto,Media,False,False
+6,46,Other,Oculus Rift,28.28,7,4,Adulto,Media,True,True
+7,49,Other,Oculus Rift,52.3,7,3,Adulto,Larga,False,True
+8,42,Other,Oculus Rift,22.96,8,2,Adulto,Media,False,True
+9,56,Female,Playstation Vr,16.86,5,1,Adulto mayor,Media,False,False
+10,60,Male,Oculus Rift,34.47,5,4,Adulto mayor,Media,True,False
+11,37,Male,Oculus Rift,43.37,2,1,Adulto joven,Larga,False,False
+12,23,Other,Playstation Vr,25.11,8,4,Joven,Media,True,True
+13,45,Male,Playstation Vr,58.14,5,3,Adulto,Larga,False,False
+14,28,Female,Playstation Vr,25.98,5,5,Adulto joven,Media,True,False
+15,23,Male,Htc Vive,57.15,7,4,Joven,Larga,True,True
+16,34,Female,Oculus Rift,44.7,1,3,Adulto joven,Larga,False,False
+17,48,Male,Playstation Vr,22.86,10,5,Adulto,Media,True,True
+18,54,Male,Playstation Vr,36.81,4,2,Adulto,Larga,False,False
+19,35,Other,Oculus Rift,48.29,10,1,Adulto joven,Larga,False,True
+20,27,Other,Oculus Rift,15.8,7,2,Adulto joven,Media,False,True
+21,25,Other,Oculus Rift,36.5,10,1,Adulto joven,Larga,False,True
+22,57,Male,Oculus Rift,23.58,4,3,Adulto mayor,Media,False,False
+23,38,Female,Oculus Rift,35.35,4,5,Adulto joven,Larga,True,False
+24,60,Female,Oculus Rift,44.65,10,5,Adulto mayor,Larga,True,True
+25,41,Other,Playstation Vr,5.28,5,5,Adulto,Corta,True,False
+26,28,Female,Playstation Vr,26.69,9,1,Adulto joven,Media,False,True
+27,60,Other,Oculus Rift,15.26,3,3,Adulto mayor,Media,False,False
+28,24,Male,Htc Vive,34.09,7,3,Joven,Media,False,True
+29,30,Other,Htc Vive,57.41,4,4,Adulto joven,Larga,True,False
+30,59,Female,Oculus Rift,11.52,6,3,Adulto mayor,Corta,False,False
+31,31,Male,Oculus Rift,32.52,7,1,Adulto joven,Media,False,True
+32,25,Other,Htc Vive,21.0,6,3,Adulto joven,Media,False,False
+33,39,Female,Playstation Vr,18.35,1,5,Adulto joven,Media,True,False
+34,49,Male,Playstation Vr,28.81,10,1,Adulto,Media,False,True
+35,23,Other,Playstation Vr,20.1,3,1,Joven,Media,False,False
+36,53,Female,Oculus Rift,45.5,10,5,Adulto,Larga,True,True
+37,54,Other,Oculus Rift,37.73,5,3,Adulto,Larga,False,False
+38,41,Male,Oculus Rift,52.72,3,4,Adulto,Larga,True,False
+39,43,Female,Playstation Vr,6.12,10,3,Adulto,Corta,False,True
+40,45,Other,Playstation Vr,39.83,9,2,Adulto,Larga,False,True
+41,30,Female,Playstation Vr,10.31,9,4,Adulto joven,Corta,True,True
+42,33,Male,Htc Vive,40.55,5,1,Adulto joven,Larga,False,False
+43,53,Female,Htc Vive,6.42,3,2,Adulto,Corta,False,False
+44,19,Other,Playstation Vr,14.9,10,1,Joven,Corta,False,True
+45,51,Female,Playstation Vr,58.53,10,5,Adulto,Larga,True,True
+46,41,Other,Playstation Vr,19.3,6,4,Adulto,Media,True,False
+47,39,Female,Htc Vive,21.04,2,4,Adulto joven,Media,True,False
+48,29,Female,Playstation Vr,14.87,6,4,Adulto joven,Corta,True,False
+49,37,Female,Oculus Rift,46.2,8,5,Adulto joven,Larga,True,True
+50,36,Female,Oculus Rift,13.86,5,1,Adulto joven,Corta,False,False
+51,49,Female,Oculus Rift,16.85,2,4,Adulto,Media,True,False
+52,34,Other,Oculus Rift,41.02,7,3,Adulto joven,Larga,False,True
+53,46,Other,Playstation Vr,48.89,6,2,Adulto,Larga,False,False
+54,54,Male,Htc Vive,53.92,5,2,Adulto,Larga,False,False
+55,38,Female,Oculus Rift,18.43,7,1,Adulto joven,Media,False,True
+56,45,Male,Htc Vive,49.64,6,2,Adulto,Larga,False,False
+57,58,Other,Playstation Vr,43.97,5,2,Adulto mayor,Larga,False,False
+58,38,Female,Oculus Rift,51.38,3,2,Adulto joven,Larga,False,False
+59,46,Other,Htc Vive,57.21,9,1,Adulto,Larga,False,True
+60,36,Other,Htc Vive,23.9,7,1,Adulto joven,Media,False,True
+61,50,Other,Oculus Rift,14.67,8,4,Adulto,Corta,True,True
+62,44,Other,Oculus Rift,51.69,4,1,Adulto,Larga,False,False
+63,56,Male,Playstation Vr,50.04,6,3,Adulto mayor,Larga,False,False
+64,47,Male,Htc Vive,50.53,2,5,Adulto,Larga,True,False
+65,43,Male,Playstation Vr,17.27,10,2,Adulto,Media,False,True
+66,54,Male,Htc Vive,42.76,7,2,Adulto,Larga,False,True
+67,29,Female,Playstation Vr,13.47,8,5,Adulto joven,Corta,True,True
+68,57,Male,Playstation Vr,5.54,6,5,Adulto mayor,Corta,True,False
+69,23,Male,Htc Vive,48.57,6,4,Joven,Larga,True,False
+70,43,Male,Htc Vive,39.57,9,3,Adulto,Larga,False,True
+71,55,Other,Playstation Vr,25.27,1,1,Adulto mayor,Media,False,False
+72,49,Female,Htc Vive,8.11,4,2,Adulto,Corta,False,False
+73,60,Other,Playstation Vr,48.86,5,5,Adulto mayor,Larga,True,False
+74,35,Female,Htc Vive,50.73,7,2,Adulto joven,Larga,False,True
+75,19,Male,Playstation Vr,41.27,10,3,Joven,Larga,False,True
+76,42,Female,Playstation Vr,44.97,6,4,Adulto,Larga,True,False
+77,47,Male,Playstation Vr,27.19,7,4,Adulto,Media,True,True
+78,44,Female,Oculus Rift,53.99,7,1,Adulto,Larga,False,True
+79,36,Female,Playstation Vr,32.98,5,2,Adulto joven,Media,False,False
+80,28,Female,Playstation Vr,51.64,9,5,Adulto joven,Larga,True,True
+81,27,Male,Htc Vive,42.17,1,4,Adulto joven,Larga,True,False
+82,35,Other,Playstation Vr,44.11,5,3,Adulto joven,Larga,False,False
+83,26,Female,Playstation Vr,28.81,2,1,Adulto joven,Media,False,False
+84,37,Female,Playstation Vr,57.98,8,3,Adulto joven,Larga,False,True
+85,27,Other,Htc Vive,5.01,7,2,Adulto joven,Corta,False,True
+86,45,Other,Htc Vive,14.34,6,1,Adulto,Corta,False,False
+87,37,Male,Oculus Rift,55.22,2,2,Adulto joven,Larga,False,False
+88,33,Female,Playstation Vr,50.59,9,2,Adulto joven,Larga,False,True
+89,42,Female,Playstation Vr,36.97,2,4,Adulto,Larga,True,False
+90,19,Other,Htc Vive,42.0,2,5,Joven,Larga,True,False
+91,54,Other,Playstation Vr,13.02,4,4,Adulto,Corta,True,False
+92,43,Female,Htc Vive,31.43,1,4,Adulto,Media,True,False
+93,48,Other,Htc Vive,28.11,10,3,Adulto,Media,False,True
+94,21,Other,Oculus Rift,21.28,1,2,Joven,Media,False,False
+95,55,Female,Playstation Vr,42.98,7,1,Adulto mayor,Larga,False,True
+96,58,Other,Playstation Vr,57.4,4,5,Adulto mayor,Larga,True,False
+97,49,Female,Oculus Rift,39.51,8,1,Adulto,Larga,False,True
+98,47,Female,Playstation Vr,15.53,8,1,Adulto,Media,False,True
+99,41,Other,Htc Vive,52.25,7,3,Adulto,Larga,False,True
+100,37,Female,Playstation Vr,35.44,8,5,Adulto joven,Larga,True,True
+101,21,Male,Htc Vive,43.63,8,1,Joven,Larga,False,True
+102,57,Other,Htc Vive,40.26,6,4,Adulto mayor,Larga,True,False
+103,22,Male,Htc Vive,27.97,5,3,Joven,Media,False,False
+104,58,Male,Oculus Rift,5.94,8,2,Adulto mayor,Corta,False,True
+105,27,Male,Htc Vive,44.63,1,3,Adulto joven,Larga,False,False
+106,38,Male,Oculus Rift,37.22,4,2,Adulto joven,Larga,False,False
+107,29,Male,Htc Vive,58.58,3,2,Adulto joven,Larga,False,False
+108,55,Male,Playstation Vr,43.45,10,4,Adulto mayor,Larga,True,True
+109,39,Female,Oculus Rift,39.98,1,1,Adulto joven,Larga,False,False
+110,21,Other,Htc Vive,51.05,9,3,Joven,Larga,False,True
+111,25,Male,Oculus Rift,25.33,3,2,Adulto joven,Media,False,False
+112,60,Other,Htc Vive,12.7,1,4,Adulto mayor,Corta,True,False
+113,39,Female,Playstation Vr,27.2,4,5,Adulto joven,Media,True,False
+114,42,Male,Oculus Rift,31.65,8,4,Adulto,Media,True,True
+115,37,Female,Playstation Vr,12.78,6,1,Adulto joven,Corta,False,False
+116,46,Female,Oculus Rift,31.17,1,4,Adulto,Media,True,False
+117,34,Male,Oculus Rift,6.14,5,1,Adulto joven,Corta,False,False
+118,59,Female,Htc Vive,5.5,10,1,Adulto mayor,Corta,False,True
+119,40,Male,Htc Vive,42.45,5,1,Adulto,Larga,False,False
+120,38,Male,Playstation Vr,17.99,3,4,Adulto joven,Media,True,False
+121,60,Female,Htc Vive,7.38,10,1,Adulto mayor,Corta,False,True
+122,33,Female,Htc Vive,55.24,8,3,Adulto joven,Larga,False,True
+123,40,Female,Oculus Rift,51.74,3,3,Adulto,Larga,False,False
+124,40,Other,Htc Vive,19.53,1,2,Adulto,Media,False,False
+125,18,Female,Playstation Vr,23.44,10,4,Joven,Media,True,True
+126,41,Other,Oculus Rift,50.25,1,1,Adulto,Larga,False,False
+127,60,Other,Playstation Vr,58.77,1,5,Adulto mayor,Larga,True,False
+128,35,Other,Htc Vive,15.31,10,1,Adulto joven,Media,False,True
+129,50,Other,Playstation Vr,18.48,8,4,Adulto,Media,True,True
+130,26,Female,Htc Vive,56.39,2,1,Adulto joven,Larga,False,False
+131,19,Male,Playstation Vr,5.19,5,5,Joven,Corta,True,False
+132,42,Other,Playstation Vr,14.69,5,5,Adulto,Corta,True,False
+133,40,Other,Playstation Vr,11.21,7,4,Adulto,Corta,True,True
+134,21,Female,Playstation Vr,17.67,9,5,Joven,Media,True,True
+135,49,Other,Playstation Vr,53.55,7,4,Adulto,Larga,True,True
+136,35,Other,Playstation Vr,22.59,8,2,Adulto joven,Media,False,True
+137,39,Female,Htc Vive,43.69,10,2,Adulto joven,Larga,False,True
+138,57,Other,Playstation Vr,15.13,2,3,Adulto mayor,Media,False,False
+139,42,Female,Oculus Rift,7.08,5,5,Adulto,Corta,True,False
+140,58,Male,Oculus Rift,28.88,2,1,Adulto mayor,Media,False,False
+141,45,Other,Oculus Rift,43.39,8,2,Adulto,Larga,False,True
+142,34,Other,Oculus Rift,49.27,1,5,Adulto joven,Larga,True,False
+143,36,Other,Playstation Vr,43.68,3,3,Adulto joven,Larga,False,False
+144,21,Male,Oculus Rift,32.33,9,1,Joven,Media,False,True
+145,18,Other,Htc Vive,10.46,5,2,Joven,Corta,False,False
+146,31,Male,Oculus Rift,54.33,3,1,Adulto joven,Larga,False,False
+147,37,Other,Oculus Rift,56.06,4,1,Adulto joven,Larga,False,False
+148,33,Other,Playstation Vr,13.32,7,1,Adulto joven,Corta,False,True
+149,20,Female,Htc Vive,45.24,2,4,Joven,Larga,True,False
+150,26,Other,Playstation Vr,33.8,4,2,Adulto joven,Media,False,False
+151,39,Other,Oculus Rift,32.73,3,4,Adulto joven,Media,True,False
+152,49,Female,Oculus Rift,22.53,10,3,Adulto,Media,False,True
+153,42,Other,Htc Vive,43.14,3,4,Adulto,Larga,True,False
+154,20,Other,Htc Vive,57.38,3,5,Joven,Larga,True,False
+155,43,Female,Htc Vive,9.02,4,5,Adulto,Corta,True,False
+156,35,Female,Oculus Rift,11.31,10,3,Adulto joven,Corta,False,True
+157,55,Female,Htc Vive,32.13,5,5,Adulto mayor,Media,True,False
+158,36,Other,Oculus Rift,24.25,1,1,Adulto joven,Media,False,False
+159,55,Female,Playstation Vr,32.42,10,1,Adulto mayor,Media,False,True
+160,60,Female,Playstation Vr,59.03,6,3,Adulto mayor,Larga,False,False
+161,60,Male,Playstation Vr,29.03,8,1,Adulto mayor,Media,False,True
+162,58,Other,Playstation Vr,57.27,10,3,Adulto mayor,Larga,False,True
+163,19,Other,Htc Vive,54.24,2,1,Joven,Larga,False,False
+164,25,Female,Oculus Rift,38.97,1,3,Adulto joven,Larga,False,False
+165,19,Male,Oculus Rift,31.39,5,2,Joven,Media,False,False
+166,39,Female,Playstation Vr,8.69,2,4,Adulto joven,Corta,True,False
+167,30,Male,Htc Vive,13.42,6,5,Adulto joven,Corta,True,False
+168,48,Female,Oculus Rift,9.94,1,5,Adulto,Corta,True,False
+169,32,Other,Htc Vive,51.86,3,5,Adulto joven,Larga,True,False
+170,36,Male,Playstation Vr,41.15,10,1,Adulto joven,Larga,False,True
+171,24,Female,Htc Vive,41.14,5,1,Joven,Larga,False,False
+172,43,Male,Htc Vive,48.1,1,1,Adulto,Larga,False,False
+173,39,Other,Htc Vive,43.93,8,1,Adulto joven,Larga,False,True
+174,58,Female,Oculus Rift,37.11,2,1,Adulto mayor,Larga,False,False
+175,48,Female,Oculus Rift,33.08,9,2,Adulto,Media,False,True
+176,38,Male,Playstation Vr,21.84,9,2,Adulto joven,Media,False,True
+177,55,Female,Htc Vive,20.85,3,2,Adulto mayor,Media,False,False
+178,23,Male,Htc Vive,19.48,1,2,Joven,Media,False,False
+179,31,Female,Htc Vive,25.13,9,1,Adulto joven,Media,False,True
+180,27,Female,Htc Vive,6.34,9,3,Adulto joven,Corta,False,True
+181,26,Other,Htc Vive,24.29,3,1,Adulto joven,Media,False,False
+182,24,Male,Oculus Rift,59.17,2,4,Joven,Larga,True,False
+183,34,Other,Oculus Rift,34.12,7,5,Adulto joven,Media,True,True
+184,26,Female,Playstation Vr,51.68,4,2,Adulto joven,Larga,False,False
+185,33,Other,Oculus Rift,42.9,8,3,Adulto joven,Larga,False,True
+186,55,Female,Playstation Vr,35.81,10,3,Adulto mayor,Larga,False,True
+187,42,Male,Oculus Rift,13.4,2,1,Adulto,Corta,False,False
+188,29,Female,Htc Vive,26.22,1,3,Adulto joven,Media,False,False
+189,28,Female,Oculus Rift,46.05,1,2,Adulto joven,Larga,False,False
+190,55,Other,Oculus Rift,54.99,4,5,Adulto mayor,Larga,True,False
+191,57,Other,Playstation Vr,22.27,10,4,Adulto mayor,Media,True,True
+192,29,Female,Oculus Rift,52.67,2,3,Adulto joven,Larga,False,False
+193,55,Female,Playstation Vr,59.17,4,1,Adulto mayor,Larga,False,False
+194,41,Female,Playstation Vr,42.9,3,3,Adulto,Larga,False,False
+195,39,Male,Oculus Rift,45.17,8,3,Adulto joven,Larga,False,True
+196,37,Other,Playstation Vr,32.14,6,1,Adulto joven,Media,False,False
+197,20,Other,Htc Vive,45.29,8,5,Joven,Larga,True,True
+198,55,Male,Oculus Rift,42.96,8,5,Adulto mayor,Larga,True,True
+199,56,Other,Playstation Vr,41.03,3,4,Adulto mayor,Larga,True,False
+200,33,Other,Htc Vive,11.47,10,1,Adulto joven,Corta,False,True
+201,55,Male,Oculus Rift,8.46,3,4,Adulto mayor,Corta,True,False
+202,38,Male,Htc Vive,25.72,3,4,Adulto joven,Media,True,False
+203,32,Female,Htc Vive,42.38,7,1,Adulto joven,Larga,False,True
+204,21,Other,Oculus Rift,9.21,2,1,Joven,Corta,False,False
+205,40,Other,Playstation Vr,8.72,5,2,Adulto,Corta,False,False
+206,20,Other,Oculus Rift,28.09,7,2,Joven,Media,False,True
+207,18,Male,Htc Vive,31.58,4,4,Joven,Media,True,False
+208,41,Female,Htc Vive,28.23,4,5,Adulto,Media,True,False
+209,25,Male,Oculus Rift,13.82,7,2,Adulto joven,Corta,False,True
+210,48,Male,Oculus Rift,31.18,1,5,Adulto,Media,True,False
+211,51,Other,Htc Vive,52.78,6,2,Adulto,Larga,False,False
+212,24,Female,Playstation Vr,26.77,8,5,Joven,Media,True,True
+213,53,Female,Oculus Rift,32.22,10,2,Adulto,Media,False,True
+214,42,Male,Htc Vive,21.12,6,4,Adulto,Media,True,False
+215,56,Female,Htc Vive,5.93,10,1,Adulto mayor,Corta,False,True
+216,59,Male,Playstation Vr,55.27,5,5,Adulto mayor,Larga,True,False
+217,32,Male,Oculus Rift,56.23,9,5,Adulto joven,Larga,True,True
+218,20,Male,Oculus Rift,51.49,6,3,Joven,Larga,False,False
+219,47,Other,Oculus Rift,35.16,9,5,Adulto,Larga,True,True
+220,42,Female,Htc Vive,58.68,9,2,Adulto,Larga,False,True
+221,29,Female,Playstation Vr,32.43,2,4,Adulto joven,Media,True,False
+222,38,Other,Playstation Vr,45.74,10,1,Adulto joven,Larga,False,True
+223,20,Other,Htc Vive,14.99,6,2,Joven,Corta,False,False
+224,38,Other,Oculus Rift,56.87,5,4,Adulto joven,Larga,True,False
+225,60,Other,Playstation Vr,52.77,4,4,Adulto mayor,Larga,True,False
+226,20,Female,Oculus Rift,44.21,7,4,Joven,Larga,True,True
+227,30,Female,Oculus Rift,24.55,4,5,Adulto joven,Media,True,False
+228,19,Female,Playstation Vr,12.27,1,3,Joven,Corta,False,False
+229,30,Male,Htc Vive,15.07,9,2,Adulto joven,Media,False,True
+230,47,Female,Playstation Vr,43.91,4,4,Adulto,Larga,True,False
+231,31,Male,Oculus Rift,49.22,3,5,Adulto joven,Larga,True,False
+232,25,Male,Oculus Rift,23.19,10,2,Adulto joven,Media,False,True
+233,60,Male,Playstation Vr,17.25,9,3,Adulto mayor,Media,False,True
+234,35,Other,Oculus Rift,28.57,2,4,Adulto joven,Media,True,False
+235,41,Other,Oculus Rift,33.51,5,5,Adulto,Media,True,False
+236,36,Other,Oculus Rift,27.6,10,2,Adulto joven,Media,False,True
+237,39,Other,Htc Vive,35.27,1,3,Adulto joven,Larga,False,False
+238,31,Other,Htc Vive,35.15,1,1,Adulto joven,Larga,False,False
+239,23,Male,Playstation Vr,6.63,3,2,Joven,Corta,False,False
+240,52,Female,Oculus Rift,28.35,5,2,Adulto,Media,False,False
+241,20,Male,Playstation Vr,36.82,3,4,Joven,Larga,True,False
+242,47,Female,Playstation Vr,18.27,6,4,Adulto,Media,True,False
+243,24,Other,Htc Vive,30.17,2,1,Joven,Media,False,False
+244,52,Other,Htc Vive,56.1,5,3,Adulto,Larga,False,False
+245,35,Male,Oculus Rift,41.6,2,5,Adulto joven,Larga,True,False
+246,36,Other,Playstation Vr,56.14,10,3,Adulto joven,Larga,False,True
+247,51,Other,Htc Vive,50.3,1,2,Adulto,Larga,False,False
+248,42,Other,Htc Vive,19.98,6,1,Adulto,Media,False,False
+249,53,Other,Oculus Rift,29.09,6,4,Adulto,Media,True,False
+250,38,Male,Htc Vive,20.69,7,3,Adulto joven,Media,False,True
+251,34,Male,Oculus Rift,25.93,4,4,Adulto joven,Media,True,False
+252,35,Male,Htc Vive,14.54,5,1,Adulto joven,Corta,False,False
+253,60,Other,Oculus Rift,24.89,4,5,Adulto mayor,Media,True,False
+254,20,Other,Htc Vive,52.19,3,2,Joven,Larga,False,False
+255,32,Male,Oculus Rift,59.14,9,1,Adulto joven,Larga,False,True
+256,30,Other,Oculus Rift,51.55,10,2,Adulto joven,Larga,False,True
+257,32,Female,Htc Vive,41.2,2,1,Adulto joven,Larga,False,False
+258,56,Female,Oculus Rift,58.46,4,4,Adulto mayor,Larga,True,False
+259,49,Female,Htc Vive,26.06,10,2,Adulto,Media,False,True
+260,38,Female,Htc Vive,5.35,10,1,Adulto joven,Corta,False,True
+261,59,Female,Oculus Rift,15.89,4,3,Adulto mayor,Media,False,False
+262,41,Male,Playstation Vr,12.32,4,4,Adulto,Corta,True,False
+263,48,Male,Oculus Rift,22.68,4,1,Adulto,Media,False,False
+264,32,Female,Oculus Rift,7.23,9,5,Adulto joven,Corta,True,True
+265,24,Male,Htc Vive,51.9,8,2,Joven,Larga,False,True
+266,29,Male,Playstation Vr,21.41,8,2,Adulto joven,Media,False,True
+267,53,Male,Htc Vive,28.26,5,1,Adulto,Media,False,False
+268,57,Other,Oculus Rift,30.9,1,5,Adulto mayor,Media,True,False
+269,42,Female,Oculus Rift,42.63,10,1,Adulto,Larga,False,True
+270,58,Other,Htc Vive,40.29,5,5,Adulto mayor,Larga,True,False
+271,37,Other,Oculus Rift,13.16,10,5,Adulto joven,Corta,True,True
+272,29,Female,Oculus Rift,43.22,10,3,Adulto joven,Larga,False,True
+273,25,Female,Htc Vive,36.34,7,1,Adulto joven,Larga,False,True
+274,27,Other,Playstation Vr,36.08,5,4,Adulto joven,Larga,True,False
+275,33,Female,Htc Vive,28.26,1,3,Adulto joven,Media,False,False
+276,38,Female,Playstation Vr,35.99,5,1,Adulto joven,Larga,False,False
+277,57,Other,Oculus Rift,52.04,6,5,Adulto mayor,Larga,True,False
+278,39,Male,Htc Vive,58.33,6,4,Adulto joven,Larga,True,False
+279,55,Other,Oculus Rift,21.78,2,3,Adulto mayor,Media,False,False
+280,41,Other,Oculus Rift,5.61,5,4,Adulto,Corta,True,False
+281,24,Male,Playstation Vr,55.58,9,1,Joven,Larga,False,True
+282,47,Male,Htc Vive,44.41,5,3,Adulto,Larga,False,False
+283,47,Female,Oculus Rift,31.4,7,4,Adulto,Media,True,True
+284,40,Female,Oculus Rift,59.73,9,4,Adulto,Larga,True,True
+285,20,Other,Playstation Vr,5.68,9,4,Joven,Corta,True,True
+286,54,Other,Playstation Vr,24.8,7,2,Adulto,Media,False,True
+287,56,Male,Oculus Rift,43.61,8,2,Adulto mayor,Larga,False,True
+288,47,Other,Oculus Rift,15.85,9,5,Adulto,Media,True,True
+289,23,Female,Playstation Vr,40.94,2,1,Joven,Larga,False,False
+290,32,Other,Oculus Rift,19.3,9,5,Adulto joven,Media,True,True
+291,31,Female,Oculus Rift,7.5,8,5,Adulto joven,Corta,True,True
+292,42,Male,Htc Vive,35.27,3,5,Adulto,Larga,True,False
+293,51,Male,Playstation Vr,21.39,5,3,Adulto,Media,False,False
+294,28,Other,Oculus Rift,57.1,7,1,Adulto joven,Larga,False,True
+295,40,Female,Oculus Rift,45.28,3,4,Adulto,Larga,True,False
+296,33,Male,Oculus Rift,52.45,9,3,Adulto joven,Larga,False,True
+297,23,Male,Playstation Vr,43.9,7,1,Joven,Larga,False,True
+298,39,Other,Htc Vive,55.9,1,1,Adulto joven,Larga,False,False
+299,31,Female,Oculus Rift,22.84,9,4,Adulto joven,Media,True,True
+300,18,Other,Htc Vive,51.81,7,3,Joven,Larga,False,True
+301,46,Other,Playstation Vr,36.6,6,1,Adulto,Larga,False,False
+302,27,Female,Htc Vive,42.75,10,2,Adulto joven,Larga,False,True
+303,30,Other,Oculus Rift,27.1,4,5,Adulto joven,Media,True,False
+304,30,Other,Htc Vive,19.27,3,5,Adulto joven,Media,True,False
+305,55,Female,Htc Vive,20.62,6,3,Adulto mayor,Media,False,False
+306,34,Male,Playstation Vr,37.12,1,5,Adulto joven,Larga,True,False
+307,18,Male,Htc Vive,53.96,9,4,Joven,Larga,True,True
+308,58,Male,Oculus Rift,57.28,10,1,Adulto mayor,Larga,False,True
+309,37,Female,Oculus Rift,25.23,1,3,Adulto joven,Media,False,False
+310,33,Other,Playstation Vr,58.22,6,2,Adulto joven,Larga,False,False
+311,30,Other,Playstation Vr,19.1,3,3,Adulto joven,Media,False,False
+312,51,Other,Playstation Vr,55.63,5,5,Adulto,Larga,True,False
+313,29,Female,Oculus Rift,6.22,7,4,Adulto joven,Corta,True,True
+314,33,Male,Playstation Vr,56.73,8,2,Adulto joven,Larga,False,True
+315,41,Male,Htc Vive,28.08,1,3,Adulto,Media,False,False
+316,38,Female,Htc Vive,28.49,8,1,Adulto joven,Media,False,True
+317,31,Other,Htc Vive,44.28,1,4,Adulto joven,Larga,True,False
+318,50,Female,Playstation Vr,52.92,1,2,Adulto,Larga,False,False
+319,20,Other,Oculus Rift,41.4,7,3,Joven,Larga,False,True
+320,25,Female,Htc Vive,45.32,5,4,Adulto joven,Larga,True,False
+321,25,Male,Playstation Vr,12.47,6,5,Adulto joven,Corta,True,False
+322,24,Other,Oculus Rift,26.89,3,1,Joven,Media,False,False
+323,28,Female,Oculus Rift,39.13,10,2,Adulto joven,Larga,False,True
+324,55,Female,Htc Vive,42.41,10,1,Adulto mayor,Larga,False,True
+325,31,Female,Playstation Vr,16.05,6,2,Adulto joven,Media,False,False
+326,47,Other,Oculus Rift,5.99,5,2,Adulto,Corta,False,False
+327,47,Male,Oculus Rift,53.94,2,1,Adulto,Larga,False,False
+328,34,Female,Playstation Vr,44.54,8,3,Adulto joven,Larga,False,True
+329,35,Male,Htc Vive,41.85,7,5,Adulto joven,Larga,True,True
+330,21,Other,Htc Vive,30.67,7,3,Joven,Media,False,True
+331,38,Female,Oculus Rift,5.2,7,1,Adulto joven,Corta,False,True
+332,19,Female,Playstation Vr,47.81,3,4,Joven,Larga,True,False
+333,33,Male,Oculus Rift,54.4,8,1,Adulto joven,Larga,False,True
+334,21,Other,Oculus Rift,24.55,2,4,Joven,Media,True,False
+335,34,Other,Oculus Rift,59.1,10,2,Adulto joven,Larga,False,True
+336,33,Male,Htc Vive,36.32,7,4,Adulto joven,Larga,True,True
+337,35,Male,Oculus Rift,30.57,8,3,Adulto joven,Media,False,True
+338,28,Male,Htc Vive,39.66,6,3,Adulto joven,Larga,False,False
+339,56,Other,Htc Vive,53.72,3,4,Adulto mayor,Larga,True,False
+340,59,Male,Oculus Rift,51.29,7,2,Adulto mayor,Larga,False,True
+341,24,Male,Playstation Vr,42.23,2,3,Joven,Larga,False,False
+342,49,Male,Oculus Rift,56.66,10,5,Adulto,Larga,True,True
+343,18,Male,Playstation Vr,36.62,8,2,Joven,Larga,False,True
+344,46,Female,Htc Vive,13.79,4,2,Adulto,Corta,False,False
+345,41,Other,Oculus Rift,10.76,3,5,Adulto,Corta,True,False
+346,24,Male,Playstation Vr,27.64,7,4,Joven,Media,True,True
+347,40,Male,Oculus Rift,11.58,7,1,Adulto,Corta,False,True
+348,31,Male,Playstation Vr,18.39,1,2,Adulto joven,Media,False,False
+349,22,Other,Oculus Rift,44.51,1,3,Joven,Larga,False,False
+350,49,Female,Htc Vive,28.11,10,3,Adulto,Media,False,True
+351,20,Female,Playstation Vr,28.12,5,2,Joven,Media,False,False
+352,50,Other,Playstation Vr,35.4,10,4,Adulto,Larga,True,True
+353,29,Male,Oculus Rift,31.47,5,4,Adulto joven,Media,True,False
+354,53,Female,Oculus Rift,31.29,10,1,Adulto,Media,False,True
+355,18,Female,Oculus Rift,25.35,1,1,Joven,Media,False,False
+356,49,Other,Htc Vive,49.46,10,3,Adulto,Larga,False,True
+357,50,Male,Playstation Vr,32.79,3,4,Adulto,Media,True,False
+358,26,Male,Htc Vive,40.23,1,5,Adulto joven,Larga,True,False
+359,25,Other,Htc Vive,15.66,9,5,Adulto joven,Media,True,True
+360,23,Other,Htc Vive,28.3,6,3,Joven,Media,False,False
+361,24,Female,Htc Vive,20.44,9,2,Joven,Media,False,True
+362,40,Male,Htc Vive,17.96,1,3,Adulto,Media,False,False
+363,30,Male,Playstation Vr,25.46,7,4,Adulto joven,Media,True,True
+364,28,Male,Playstation Vr,38.96,4,3,Adulto joven,Larga,False,False
+365,35,Male,Playstation Vr,51.15,1,5,Adulto joven,Larga,True,False
+366,27,Female,Oculus Rift,25.72,4,3,Adulto joven,Media,False,False
+367,44,Other,Oculus Rift,52.83,2,5,Adulto,Larga,True,False
+368,26,Female,Htc Vive,26.89,8,5,Adulto joven,Media,True,True
+369,54,Male,Playstation Vr,21.01,5,4,Adulto,Media,True,False
+370,58,Other,Playstation Vr,23.82,2,2,Adulto mayor,Media,False,False
+371,55,Other,Htc Vive,24.07,3,3,Adulto mayor,Media,False,False
+372,29,Male,Playstation Vr,12.25,4,2,Adulto joven,Corta,False,False
+373,51,Other,Htc Vive,18.6,8,5,Adulto,Media,True,True
+374,54,Female,Oculus Rift,19.1,4,3,Adulto,Media,False,False
+375,44,Other,Playstation Vr,35.45,8,3,Adulto,Larga,False,True
+376,37,Other,Oculus Rift,30.08,2,3,Adulto joven,Media,False,False
+377,31,Male,Playstation Vr,7.38,2,5,Adulto joven,Corta,True,False
+378,44,Other,Htc Vive,10.61,3,2,Adulto,Corta,False,False
+379,26,Other,Oculus Rift,22.04,3,2,Adulto joven,Media,False,False
+380,57,Female,Htc Vive,52.09,9,5,Adulto mayor,Larga,True,True
+381,30,Other,Htc Vive,48.53,9,1,Adulto joven,Larga,False,True
+382,19,Male,Playstation Vr,6.03,8,2,Joven,Corta,False,True
+383,50,Other,Htc Vive,30.6,1,2,Adulto,Media,False,False
+384,49,Other,Oculus Rift,30.99,1,2,Adulto,Media,False,False
+385,56,Other,Oculus Rift,58.41,6,5,Adulto mayor,Larga,True,False
+386,39,Other,Oculus Rift,34.31,1,3,Adulto joven,Media,False,False
+387,28,Other,Htc Vive,9.62,7,4,Adulto joven,Corta,True,True
+388,19,Male,Playstation Vr,27.12,5,5,Joven,Media,True,False
+389,30,Female,Oculus Rift,15.62,6,3,Adulto joven,Media,False,False
+390,30,Other,Playstation Vr,11.73,9,2,Adulto joven,Corta,False,True
+391,60,Male,Playstation Vr,49.66,8,3,Adulto mayor,Larga,False,True
+392,49,Other,Htc Vive,48.41,3,1,Adulto,Larga,False,False
+393,58,Other,Oculus Rift,9.24,5,4,Adulto mayor,Corta,True,False
+394,39,Male,Htc Vive,54.24,5,4,Adulto joven,Larga,True,False
+395,36,Other,Htc Vive,21.35,5,2,Adulto joven,Media,False,False
+396,52,Other,Playstation Vr,50.59,9,2,Adulto,Larga,False,True
+397,18,Other,Oculus Rift,27.46,8,3,Joven,Media,False,True
+398,42,Female,Htc Vive,50.54,3,3,Adulto,Larga,False,False
+399,54,Female,Playstation Vr,28.56,7,2,Adulto,Media,False,True
+400,33,Male,Playstation Vr,16.92,6,2,Adulto joven,Media,False,False
+401,40,Other,Playstation Vr,54.09,7,4,Adulto,Larga,True,True
+402,51,Male,Playstation Vr,5.6,10,2,Adulto,Corta,False,True
+403,31,Other,Oculus Rift,21.58,3,3,Adulto joven,Media,False,False
+404,20,Female,Oculus Rift,17.42,5,2,Joven,Media,False,False
+405,33,Male,Oculus Rift,34.48,4,3,Adulto joven,Media,False,False
+406,54,Male,Playstation Vr,35.31,7,4,Adulto,Larga,True,True
+407,39,Female,Htc Vive,43.31,6,5,Adulto joven,Larga,True,False
+408,49,Male,Htc Vive,39.63,5,3,Adulto,Larga,False,False
+409,36,Other,Oculus Rift,59.55,1,5,Adulto joven,Larga,True,False
+410,41,Other,Htc Vive,23.12,9,1,Adulto,Media,False,True
+411,29,Female,Htc Vive,8.65,2,1,Adulto joven,Corta,False,False
+412,54,Male,Playstation Vr,37.21,6,3,Adulto,Larga,False,False
+413,25,Other,Playstation Vr,50.71,8,2,Adulto joven,Larga,False,True
+414,53,Male,Htc Vive,54.46,9,2,Adulto,Larga,False,True
+415,35,Male,Htc Vive,14.68,10,5,Adulto joven,Corta,True,True
+416,40,Female,Playstation Vr,58.21,2,4,Adulto,Larga,True,False
+417,32,Other,Htc Vive,24.67,10,5,Adulto joven,Media,True,True
+418,55,Other,Htc Vive,34.8,5,1,Adulto mayor,Media,False,False
+419,56,Female,Oculus Rift,42.22,3,1,Adulto mayor,Larga,False,False
+420,24,Male,Playstation Vr,11.57,4,1,Joven,Corta,False,False
+421,44,Female,Htc Vive,25.46,5,1,Adulto,Media,False,False
+422,20,Other,Htc Vive,31.13,8,2,Joven,Media,False,True
+423,51,Male,Htc Vive,41.78,1,1,Adulto,Larga,False,False
+424,41,Female,Oculus Rift,38.96,1,2,Adulto,Larga,False,False
+425,53,Female,Oculus Rift,52.57,10,1,Adulto,Larga,False,True
+426,34,Female,Oculus Rift,26.76,6,3,Adulto joven,Media,False,False
+427,35,Other,Htc Vive,22.49,10,1,Adulto joven,Media,False,True
+428,38,Other,Oculus Rift,53.77,1,2,Adulto joven,Larga,False,False
+429,22,Male,Htc Vive,21.98,8,1,Joven,Media,False,True
+430,29,Other,Oculus Rift,36.92,8,1,Adulto joven,Larga,False,True
+431,31,Female,Htc Vive,45.62,4,2,Adulto joven,Larga,False,False
+432,60,Female,Htc Vive,43.5,7,5,Adulto mayor,Larga,True,True
+433,42,Male,Oculus Rift,51.0,4,1,Adulto,Larga,False,False
+434,60,Male,Oculus Rift,43.7,7,3,Adulto mayor,Larga,False,True
+435,34,Female,Oculus Rift,22.85,3,3,Adulto joven,Media,False,False
+436,45,Other,Oculus Rift,33.12,7,4,Adulto,Media,True,True
+437,42,Other,Htc Vive,12.72,7,5,Adulto,Corta,True,True
+438,39,Female,Playstation Vr,5.16,6,5,Adulto joven,Corta,True,False
+439,38,Other,Htc Vive,36.96,9,1,Adulto joven,Larga,False,True
+440,54,Female,Playstation Vr,14.25,7,1,Adulto,Corta,False,True
+441,27,Other,Playstation Vr,39.43,1,3,Adulto joven,Larga,False,False
+442,48,Female,Playstation Vr,22.97,9,5,Adulto,Media,True,True
+443,20,Male,Htc Vive,23.92,9,5,Joven,Media,True,True
+444,20,Male,Htc Vive,59.1,1,2,Joven,Larga,False,False
+445,39,Female,Playstation Vr,58.33,1,5,Adulto joven,Larga,True,False
+446,50,Female,Htc Vive,26.44,1,5,Adulto,Media,True,False
+447,25,Other,Playstation Vr,19.77,4,1,Adulto joven,Media,False,False
+448,29,Other,Playstation Vr,12.05,3,5,Adulto joven,Corta,True,False
+449,28,Male,Oculus Rift,49.27,1,2,Adulto joven,Larga,False,False
+450,35,Other,Playstation Vr,52.25,7,2,Adulto joven,Larga,False,True
+451,35,Male,Htc Vive,40.85,5,3,Adulto joven,Larga,False,False
+452,37,Male,Playstation Vr,7.14,10,4,Adulto joven,Corta,True,True
+453,30,Male,Playstation Vr,15.69,4,4,Adulto joven,Media,True,False
+454,52,Male,Oculus Rift,7.41,5,4,Adulto,Corta,True,False
+455,57,Male,Oculus Rift,9.4,10,4,Adulto mayor,Corta,True,True
+456,36,Female,Playstation Vr,31.49,10,3,Adulto joven,Media,False,True
+457,25,Other,Oculus Rift,52.39,7,2,Adulto joven,Larga,False,True
+458,20,Other,Playstation Vr,30.17,9,5,Joven,Media,True,True
+459,32,Female,Htc Vive,30.65,2,4,Adulto joven,Media,True,False
+460,47,Female,Playstation Vr,38.72,3,4,Adulto,Larga,True,False
+461,24,Male,Oculus Rift,37.44,6,2,Joven,Larga,False,False
+462,57,Other,Htc Vive,23.19,5,1,Adulto mayor,Media,False,False
+463,41,Male,Htc Vive,23.4,9,5,Adulto,Media,True,True
+464,24,Male,Htc Vive,57.87,6,5,Joven,Larga,True,False
+465,59,Female,Htc Vive,10.55,6,1,Adulto mayor,Corta,False,False
+466,32,Female,Htc Vive,52.69,3,1,Adulto joven,Larga,False,False
+467,43,Other,Oculus Rift,13.72,6,1,Adulto,Corta,False,False
+468,18,Other,Playstation Vr,10.71,8,3,Joven,Corta,False,True
+469,31,Other,Playstation Vr,49.03,5,2,Adulto joven,Larga,False,False
+470,41,Other,Htc Vive,16.71,2,2,Adulto,Media,False,False
+471,59,Other,Htc Vive,32.2,7,3,Adulto mayor,Media,False,True
+472,42,Female,Oculus Rift,42.66,6,4,Adulto,Larga,True,False
+473,38,Male,Htc Vive,32.41,5,5,Adulto joven,Media,True,False
+474,29,Male,Htc Vive,15.8,4,4,Adulto joven,Media,True,False
+475,50,Female,Oculus Rift,56.3,10,5,Adulto,Larga,True,True
+476,60,Other,Playstation Vr,25.72,7,1,Adulto mayor,Media,False,True
+477,38,Female,Oculus Rift,17.47,6,2,Adulto joven,Media,False,False
+478,57,Female,Playstation Vr,55.71,6,1,Adulto mayor,Larga,False,False
+479,52,Other,Playstation Vr,17.54,1,3,Adulto,Media,False,False
+480,43,Female,Htc Vive,53.39,7,1,Adulto,Larga,False,True
+481,37,Female,Oculus Rift,40.2,7,3,Adulto joven,Larga,False,True
+482,38,Other,Oculus Rift,53.53,1,4,Adulto joven,Larga,True,False
+483,48,Other,Htc Vive,27.03,10,2,Adulto,Media,False,True
+484,53,Female,Oculus Rift,27.32,2,2,Adulto,Media,False,False
+485,19,Female,Oculus Rift,7.75,4,3,Joven,Corta,False,False
+486,29,Male,Htc Vive,29.37,9,2,Adulto joven,Media,False,True
+487,57,Other,Oculus Rift,33.15,4,3,Adulto mayor,Media,False,False
+488,22,Female,Playstation Vr,36.94,8,2,Joven,Larga,False,True
+489,50,Other,Oculus Rift,11.85,4,2,Adulto,Corta,False,False
+490,33,Other,Htc Vive,6.19,10,1,Adulto joven,Corta,False,True
+491,38,Other,Oculus Rift,53.18,4,1,Adulto joven,Larga,False,False
+492,52,Male,Oculus Rift,58.95,6,3,Adulto,Larga,False,False
+493,58,Other,Htc Vive,19.46,8,5,Adulto mayor,Media,True,True
+494,49,Other,Playstation Vr,9.83,10,3,Adulto,Corta,False,True
+495,28,Female,Oculus Rift,5.85,10,3,Adulto joven,Corta,False,True
+496,54,Other,Htc Vive,34.24,3,5,Adulto,Media,True,False
+497,58,Male,Htc Vive,34.2,2,4,Adulto mayor,Media,True,False
+498,60,Male,Htc Vive,55.78,1,2,Adulto mayor,Larga,False,False
+499,42,Other,Oculus Rift,38.8,1,2,Adulto,Larga,False,False
+500,18,Male,Playstation Vr,57.23,6,3,Joven,Larga,False,False
+501,50,Other,Htc Vive,49.84,9,1,Adulto,Larga,False,True
+502,50,Male,Playstation Vr,18.31,3,4,Adulto,Media,True,False
+503,42,Female,Oculus Rift,10.5,7,3,Adulto,Corta,False,True
+504,38,Other,Playstation Vr,48.51,2,1,Adulto joven,Larga,False,False
+505,25,Female,Oculus Rift,42.49,3,1,Adulto joven,Larga,False,False
+506,38,Female,Htc Vive,43.61,6,5,Adulto joven,Larga,True,False
+507,60,Female,Oculus Rift,36.69,6,1,Adulto mayor,Larga,False,False
+508,25,Female,Htc Vive,41.75,9,1,Adulto joven,Larga,False,True
+509,27,Other,Playstation Vr,33.74,5,3,Adulto joven,Media,False,False
+510,42,Male,Oculus Rift,16.05,9,3,Adulto,Media,False,True
+511,22,Male,Htc Vive,42.64,3,4,Joven,Larga,True,False
+512,55,Female,Oculus Rift,57.71,9,2,Adulto mayor,Larga,False,True
+513,26,Male,Playstation Vr,44.66,5,1,Adulto joven,Larga,False,False
+514,32,Female,Oculus Rift,5.69,9,5,Adulto joven,Corta,True,True
+515,60,Other,Oculus Rift,45.65,5,2,Adulto mayor,Larga,False,False
+516,25,Female,Playstation Vr,45.6,1,1,Adulto joven,Larga,False,False
+517,34,Female,Playstation Vr,31.2,9,3,Adulto joven,Media,False,True
+518,52,Male,Htc Vive,28.05,2,5,Adulto,Media,True,False
+519,44,Female,Htc Vive,11.9,1,4,Adulto,Corta,True,False
+520,32,Other,Playstation Vr,41.47,3,3,Adulto joven,Larga,False,False
+521,26,Other,Playstation Vr,23.97,9,1,Adulto joven,Media,False,True
+522,57,Male,Oculus Rift,10.5,4,1,Adulto mayor,Corta,False,False
+523,37,Other,Playstation Vr,18.83,4,2,Adulto joven,Media,False,False
+524,54,Female,Playstation Vr,50.75,7,5,Adulto,Larga,True,True
+525,26,Male,Htc Vive,21.97,7,5,Adulto joven,Media,True,True
+526,33,Male,Htc Vive,35.45,8,2,Adulto joven,Larga,False,True
+527,32,Female,Htc Vive,12.29,9,1,Adulto joven,Corta,False,True
+528,44,Male,Htc Vive,36.56,10,1,Adulto,Larga,False,True
+529,44,Female,Htc Vive,33.36,2,5,Adulto,Media,True,False
+530,42,Other,Htc Vive,9.3,10,2,Adulto,Corta,False,True
+531,29,Male,Playstation Vr,51.26,6,2,Adulto joven,Larga,False,False
+532,30,Other,Htc Vive,30.49,9,3,Adulto joven,Media,False,True
+533,28,Male,Playstation Vr,12.68,2,1,Adulto joven,Corta,False,False
+534,49,Male,Htc Vive,24.61,10,3,Adulto,Media,False,True
+535,60,Other,Playstation Vr,22.42,8,1,Adulto mayor,Media,False,True
+536,21,Male,Playstation Vr,8.5,10,1,Joven,Corta,False,True
+537,29,Male,Oculus Rift,34.98,6,4,Adulto joven,Media,True,False
+538,49,Male,Oculus Rift,27.81,7,5,Adulto,Media,True,True
+539,57,Female,Playstation Vr,18.74,3,1,Adulto mayor,Media,False,False
+540,43,Other,Oculus Rift,42.63,8,5,Adulto,Larga,True,True
+541,28,Female,Playstation Vr,18.72,4,2,Adulto joven,Media,False,False
+542,26,Male,Playstation Vr,34.75,8,5,Adulto joven,Media,True,True
+543,59,Male,Htc Vive,33.45,10,4,Adulto mayor,Media,True,True
+544,58,Female,Playstation Vr,58.4,4,1,Adulto mayor,Larga,False,False
+545,30,Female,Playstation Vr,53.37,2,4,Adulto joven,Larga,True,False
+546,53,Female,Htc Vive,47.66,5,5,Adulto,Larga,True,False
+547,28,Other,Playstation Vr,26.04,5,4,Adulto joven,Media,True,False
+548,29,Other,Playstation Vr,44.8,6,4,Adulto joven,Larga,True,False
+549,36,Other,Htc Vive,36.44,6,5,Adulto joven,Larga,True,False
+550,58,Female,Htc Vive,37.89,10,1,Adulto mayor,Larga,False,True
+551,48,Other,Htc Vive,22.93,6,1,Adulto,Media,False,False
+552,19,Female,Htc Vive,34.69,3,3,Joven,Media,False,False
+553,23,Male,Oculus Rift,53.2,6,3,Joven,Larga,False,False
+554,44,Female,Playstation Vr,15.1,6,5,Adulto,Media,True,False
+555,48,Male,Htc Vive,38.49,9,3,Adulto,Larga,False,True
+556,31,Male,Playstation Vr,36.83,3,5,Adulto joven,Larga,True,False
+557,31,Other,Playstation Vr,37.24,8,5,Adulto joven,Larga,True,True
+558,55,Male,Playstation Vr,8.01,1,3,Adulto mayor,Corta,False,False
+559,34,Male,Htc Vive,28.51,4,5,Adulto joven,Media,True,False
+560,42,Female,Playstation Vr,30.58,8,1,Adulto,Media,False,True
+561,28,Male,Oculus Rift,16.04,8,4,Adulto joven,Media,True,True
+562,36,Female,Htc Vive,48.97,7,1,Adulto joven,Larga,False,True
+563,48,Other,Htc Vive,16.97,5,5,Adulto,Media,True,False
+564,40,Female,Playstation Vr,55.24,3,1,Adulto,Larga,False,False
+565,24,Female,Playstation Vr,21.69,10,4,Joven,Media,True,True
+566,40,Female,Oculus Rift,46.59,3,2,Adulto,Larga,False,False
+567,25,Other,Playstation Vr,12.93,4,5,Adulto joven,Corta,True,False
+568,42,Female,Playstation Vr,34.56,6,1,Adulto,Media,False,False
+569,48,Other,Htc Vive,26.9,5,1,Adulto,Media,False,False
+570,40,Male,Oculus Rift,17.15,6,3,Adulto,Media,False,False
+571,53,Female,Playstation Vr,46.75,8,4,Adulto,Larga,True,True
+572,46,Female,Playstation Vr,39.1,6,1,Adulto,Larga,False,False
+573,19,Other,Oculus Rift,17.48,8,2,Joven,Media,False,True
+574,30,Male,Playstation Vr,44.1,4,2,Adulto joven,Larga,False,False
+575,51,Female,Oculus Rift,57.87,4,1,Adulto,Larga,False,False
+576,23,Other,Oculus Rift,16.5,3,3,Joven,Media,False,False
+577,55,Male,Playstation Vr,21.39,3,2,Adulto mayor,Media,False,False
+578,33,Male,Playstation Vr,10.22,2,5,Adulto joven,Corta,True,False
+579,55,Female,Oculus Rift,52.87,8,2,Adulto mayor,Larga,False,True
+580,30,Male,Oculus Rift,24.91,7,4,Adulto joven,Media,True,True
+581,51,Other,Htc Vive,54.02,10,1,Adulto,Larga,False,True
+582,48,Male,Oculus Rift,55.94,8,4,Adulto,Larga,True,True
+583,54,Male,Htc Vive,58.01,4,2,Adulto,Larga,False,False
+584,58,Female,Oculus Rift,54.28,1,2,Adulto mayor,Larga,False,False
+585,39,Male,Playstation Vr,13.42,8,3,Adulto joven,Corta,False,True
+586,41,Female,Htc Vive,6.96,1,2,Adulto,Corta,False,False
+587,39,Other,Playstation Vr,54.75,7,5,Adulto joven,Larga,True,True
+588,46,Other,Htc Vive,34.13,6,3,Adulto,Media,False,False
+589,18,Female,Playstation Vr,25.16,1,3,Joven,Media,False,False
+590,27,Other,Oculus Rift,44.87,6,4,Adulto joven,Larga,True,False
+591,36,Female,Htc Vive,24.39,5,4,Adulto joven,Media,True,False
+592,19,Male,Playstation Vr,41.78,5,5,Joven,Larga,True,False
+593,43,Male,Oculus Rift,35.19,6,1,Adulto,Larga,False,False
+594,45,Other,Htc Vive,51.33,2,3,Adulto,Larga,False,False
+595,35,Female,Oculus Rift,42.61,7,3,Adulto joven,Larga,False,True
+596,20,Other,Htc Vive,11.75,2,2,Joven,Corta,False,False
+597,60,Female,Playstation Vr,41.39,2,3,Adulto mayor,Larga,False,False
+598,57,Other,Htc Vive,48.86,8,4,Adulto mayor,Larga,True,True
+599,52,Male,Oculus Rift,33.35,8,2,Adulto,Media,False,True
+600,45,Female,Htc Vive,23.07,10,4,Adulto,Media,True,True
+601,41,Male,Oculus Rift,8.04,2,4,Adulto,Corta,True,False
+602,35,Male,Playstation Vr,48.72,3,4,Adulto joven,Larga,True,False
+603,32,Female,Htc Vive,46.05,2,3,Adulto joven,Larga,False,False
+604,33,Other,Oculus Rift,54.32,7,3,Adulto joven,Larga,False,True
+605,34,Female,Playstation Vr,33.03,4,5,Adulto joven,Media,True,False
+606,50,Other,Oculus Rift,26.55,1,3,Adulto,Media,False,False
+607,49,Male,Htc Vive,48.54,2,5,Adulto,Larga,True,False
+608,33,Female,Htc Vive,10.26,6,2,Adulto joven,Corta,False,False
+609,45,Female,Playstation Vr,42.48,1,3,Adulto,Larga,False,False
+610,36,Female,Htc Vive,41.74,5,3,Adulto joven,Larga,False,False
+611,59,Female,Htc Vive,32.56,6,2,Adulto mayor,Media,False,False
+612,51,Other,Playstation Vr,10.62,5,5,Adulto,Corta,True,False
+613,40,Female,Htc Vive,37.04,10,5,Adulto,Larga,True,True
+614,41,Male,Oculus Rift,51.55,2,5,Adulto,Larga,True,False
+615,32,Male,Htc Vive,42.41,1,2,Adulto joven,Larga,False,False
+616,47,Male,Htc Vive,57.73,3,3,Adulto,Larga,False,False
+617,18,Male,Oculus Rift,55.58,6,4,Joven,Larga,True,False
+618,32,Female,Playstation Vr,21.12,3,5,Adulto joven,Media,True,False
+619,38,Female,Htc Vive,41.71,2,3,Adulto joven,Larga,False,False
+620,59,Female,Htc Vive,30.56,4,5,Adulto mayor,Media,True,False
+621,28,Female,Oculus Rift,36.23,5,4,Adulto joven,Larga,True,False
+622,46,Male,Oculus Rift,42.12,1,1,Adulto,Larga,False,False
+623,18,Male,Playstation Vr,58.33,7,3,Joven,Larga,False,True
+624,45,Other,Oculus Rift,52.31,5,2,Adulto,Larga,False,False
+625,30,Male,Oculus Rift,22.83,5,1,Adulto joven,Media,False,False
+626,32,Female,Htc Vive,28.43,4,4,Adulto joven,Media,True,False
+627,36,Other,Htc Vive,47.02,9,3,Adulto joven,Larga,False,True
+628,28,Female,Playstation Vr,8.49,2,2,Adulto joven,Corta,False,False
+629,58,Female,Htc Vive,39.64,1,3,Adulto mayor,Larga,False,False
+630,37,Male,Oculus Rift,34.19,7,4,Adulto joven,Media,True,True
+631,40,Female,Oculus Rift,56.38,4,5,Adulto,Larga,True,False
+632,29,Female,Htc Vive,27.63,6,3,Adulto joven,Media,False,False
+633,52,Other,Playstation Vr,16.46,1,1,Adulto,Media,False,False
+634,52,Female,Oculus Rift,57.32,6,3,Adulto,Larga,False,False
+635,23,Female,Htc Vive,39.21,7,5,Joven,Larga,True,True
+636,29,Female,Oculus Rift,25.12,2,5,Adulto joven,Media,True,False
+637,34,Other,Oculus Rift,38.57,10,1,Adulto joven,Larga,False,True
+638,56,Male,Oculus Rift,51.55,2,4,Adulto mayor,Larga,True,False
+639,58,Other,Playstation Vr,43.48,3,2,Adulto mayor,Larga,False,False
+640,31,Female,Playstation Vr,28.11,7,5,Adulto joven,Media,True,True
+641,40,Other,Htc Vive,59.86,8,5,Adulto,Larga,True,True
+642,19,Male,Playstation Vr,5.22,7,5,Joven,Corta,True,True
+643,35,Male,Oculus Rift,16.05,10,4,Adulto joven,Media,True,True
+644,51,Female,Oculus Rift,42.9,2,4,Adulto,Larga,True,False
+645,21,Male,Oculus Rift,9.14,10,5,Joven,Corta,True,True
+646,44,Other,Oculus Rift,19.7,3,4,Adulto,Media,True,False
+647,54,Other,Oculus Rift,44.89,1,5,Adulto,Larga,True,False
+648,27,Other,Oculus Rift,38.04,2,5,Adulto joven,Larga,True,False
+649,52,Female,Htc Vive,35.61,1,4,Adulto,Larga,True,False
+650,27,Female,Oculus Rift,55.93,2,2,Adulto joven,Larga,False,False
+651,42,Other,Playstation Vr,37.03,10,2,Adulto,Larga,False,True
+652,31,Male,Oculus Rift,6.48,7,5,Adulto joven,Corta,True,True
+653,53,Male,Playstation Vr,21.22,3,2,Adulto,Media,False,False
+654,24,Male,Oculus Rift,24.67,5,3,Joven,Media,False,False
+655,50,Male,Oculus Rift,50.27,9,1,Adulto,Larga,False,True
+656,53,Male,Oculus Rift,49.1,3,4,Adulto,Larga,True,False
+657,27,Other,Playstation Vr,45.01,10,1,Adulto joven,Larga,False,True
+658,48,Other,Oculus Rift,10.55,3,3,Adulto,Corta,False,False
+659,53,Other,Htc Vive,17.75,1,5,Adulto,Media,True,False
+660,48,Other,Htc Vive,44.42,4,2,Adulto,Larga,False,False
+661,46,Female,Htc Vive,53.64,7,3,Adulto,Larga,False,True
+662,22,Other,Playstation Vr,30.34,1,5,Joven,Media,True,False
+663,26,Male,Htc Vive,25.24,2,2,Adulto joven,Media,False,False
+664,32,Female,Htc Vive,18.03,5,3,Adulto joven,Media,False,False
+665,58,Female,Htc Vive,37.38,6,4,Adulto mayor,Larga,True,False
+666,37,Male,Oculus Rift,55.37,6,3,Adulto joven,Larga,False,False
+667,29,Other,Oculus Rift,31.98,3,2,Adulto joven,Media,False,False
+668,44,Male,Playstation Vr,19.82,8,5,Adulto,Media,True,True
+669,55,Male,Htc Vive,23.07,3,5,Adulto mayor,Media,True,False
+670,25,Female,Htc Vive,6.08,7,5,Adulto joven,Corta,True,True
+671,50,Other,Playstation Vr,11.24,2,1,Adulto,Corta,False,False
+672,24,Female,Htc Vive,12.65,6,3,Joven,Corta,False,False
+673,58,Female,Oculus Rift,13.4,1,1,Adulto mayor,Corta,False,False
+674,25,Male,Playstation Vr,23.72,7,3,Adulto joven,Media,False,True
+675,58,Male,Oculus Rift,26.95,2,3,Adulto mayor,Media,False,False
+676,29,Female,Htc Vive,59.72,1,4,Adulto joven,Larga,True,False
+677,41,Female,Oculus Rift,45.41,2,3,Adulto,Larga,False,False
+678,30,Male,Playstation Vr,15.01,1,2,Adulto joven,Media,False,False
+679,32,Male,Playstation Vr,25.47,2,2,Adulto joven,Media,False,False
+680,49,Other,Htc Vive,46.87,7,4,Adulto,Larga,True,True
+681,39,Male,Oculus Rift,11.9,2,2,Adulto joven,Corta,False,False
+682,27,Other,Oculus Rift,47.66,3,4,Adulto joven,Larga,True,False
+683,28,Male,Oculus Rift,26.63,7,2,Adulto joven,Media,False,True
+684,33,Other,Playstation Vr,46.82,10,5,Adulto joven,Larga,True,True
+685,37,Female,Playstation Vr,18.15,4,3,Adulto joven,Media,False,False
+686,37,Female,Htc Vive,31.54,1,4,Adulto joven,Media,True,False
+687,23,Female,Htc Vive,45.93,10,1,Joven,Larga,False,True
+688,54,Female,Oculus Rift,9.02,9,2,Adulto,Corta,False,True
+689,23,Female,Htc Vive,5.04,5,4,Joven,Corta,True,False
+690,45,Male,Htc Vive,14.49,8,4,Adulto,Corta,True,True
+691,54,Other,Playstation Vr,21.87,5,5,Adulto,Media,True,False
+692,46,Female,Htc Vive,36.48,5,1,Adulto,Larga,False,False
+693,30,Male,Htc Vive,6.78,4,5,Adulto joven,Corta,True,False
+694,49,Male,Oculus Rift,36.21,3,5,Adulto,Larga,True,False
+695,50,Male,Htc Vive,13.06,9,2,Adulto,Corta,False,True
+696,47,Female,Htc Vive,27.91,10,2,Adulto,Media,False,True
+697,57,Female,Htc Vive,15.85,4,3,Adulto mayor,Media,False,False
+698,37,Male,Htc Vive,25.19,5,3,Adulto joven,Media,False,False
+699,23,Male,Oculus Rift,56.43,8,3,Joven,Larga,False,True
+700,50,Male,Oculus Rift,34.9,6,4,Adulto,Media,True,False
+701,43,Female,Htc Vive,6.41,7,4,Adulto,Corta,True,True
+702,45,Other,Playstation Vr,11.71,5,1,Adulto,Corta,False,False
+703,49,Male,Htc Vive,16.8,8,4,Adulto,Media,True,True
+704,45,Male,Oculus Rift,24.62,1,2,Adulto,Media,False,False
+705,21,Male,Playstation Vr,16.32,10,1,Joven,Media,False,True
+706,50,Other,Playstation Vr,35.13,9,4,Adulto,Larga,True,True
+707,38,Male,Oculus Rift,36.36,6,3,Adulto joven,Larga,False,False
+708,55,Other,Playstation Vr,38.9,9,4,Adulto mayor,Larga,True,True
+709,54,Female,Oculus Rift,29.17,7,1,Adulto,Media,False,True
+710,51,Female,Oculus Rift,26.37,2,5,Adulto,Media,True,False
+711,49,Female,Htc Vive,45.2,4,4,Adulto,Larga,True,False
+712,38,Female,Playstation Vr,39.38,6,1,Adulto joven,Larga,False,False
+713,40,Male,Oculus Rift,11.59,6,4,Adulto,Corta,True,False
+714,44,Female,Playstation Vr,5.74,3,1,Adulto,Corta,False,False
+715,24,Male,Htc Vive,54.21,2,4,Joven,Larga,True,False
+716,59,Female,Htc Vive,12.75,3,1,Adulto mayor,Corta,False,False
+717,25,Other,Oculus Rift,53.03,7,5,Adulto joven,Larga,True,True
+718,18,Female,Playstation Vr,26.34,10,4,Joven,Media,True,True
+719,29,Male,Oculus Rift,5.1,7,1,Adulto joven,Corta,False,True
+720,60,Female,Htc Vive,38.59,2,2,Adulto mayor,Larga,False,False
+721,29,Female,Oculus Rift,29.44,9,3,Adulto joven,Media,False,True
+722,49,Male,Oculus Rift,52.81,2,1,Adulto,Larga,False,False
+723,35,Male,Htc Vive,50.31,3,1,Adulto joven,Larga,False,False
+724,39,Male,Htc Vive,23.54,6,1,Adulto joven,Media,False,False
+725,53,Other,Playstation Vr,38.19,6,5,Adulto,Larga,True,False
+726,19,Female,Htc Vive,20.27,3,3,Joven,Media,False,False
+727,32,Male,Oculus Rift,30.95,7,4,Adulto joven,Media,True,True
+728,38,Female,Oculus Rift,11.49,2,2,Adulto joven,Corta,False,False
+729,28,Other,Oculus Rift,9.24,1,1,Adulto joven,Corta,False,False
+730,50,Other,Htc Vive,34.67,9,2,Adulto,Media,False,True
+731,49,Male,Htc Vive,30.72,3,3,Adulto,Media,False,False
+732,53,Male,Oculus Rift,22.72,5,1,Adulto,Media,False,False
+733,52,Other,Playstation Vr,47.88,9,3,Adulto,Larga,False,True
+734,33,Other,Htc Vive,31.26,2,5,Adulto joven,Media,True,False
+735,48,Other,Oculus Rift,14.76,7,3,Adulto,Corta,False,True
+736,42,Female,Playstation Vr,38.41,3,5,Adulto,Larga,True,False
+737,45,Male,Oculus Rift,54.82,8,1,Adulto,Larga,False,True
+738,31,Other,Oculus Rift,16.72,1,1,Adulto joven,Media,False,False
+739,24,Other,Htc Vive,46.43,3,4,Joven,Larga,True,False
+740,47,Male,Playstation Vr,31.1,5,4,Adulto,Media,True,False
+741,58,Male,Playstation Vr,16.05,10,5,Adulto mayor,Media,True,True
+742,28,Other,Oculus Rift,28.9,2,3,Adulto joven,Media,False,False
+743,55,Male,Playstation Vr,14.94,10,2,Adulto mayor,Corta,False,True
+744,58,Female,Playstation Vr,25.48,3,4,Adulto mayor,Media,True,False
+745,23,Female,Oculus Rift,56.47,3,3,Joven,Larga,False,False
+746,59,Other,Oculus Rift,50.28,2,1,Adulto mayor,Larga,False,False
+747,36,Female,Htc Vive,31.67,2,3,Adulto joven,Media,False,False
+748,48,Other,Playstation Vr,43.75,3,1,Adulto,Larga,False,False
+749,60,Male,Htc Vive,25.55,8,4,Adulto mayor,Media,True,True
+750,43,Other,Htc Vive,10.65,1,1,Adulto,Corta,False,False
+751,44,Other,Playstation Vr,48.7,9,3,Adulto,Larga,False,True
+752,31,Male,Playstation Vr,44.91,5,1,Adulto joven,Larga,False,False
+753,37,Male,Htc Vive,34.62,9,5,Adulto joven,Media,True,True
+754,23,Other,Htc Vive,33.64,2,5,Joven,Media,True,False
+755,59,Other,Oculus Rift,15.54,2,4,Adulto mayor,Media,True,False
+756,55,Male,Oculus Rift,47.63,1,4,Adulto mayor,Larga,True,False
+757,51,Other,Oculus Rift,51.59,1,5,Adulto,Larga,True,False
+758,19,Other,Playstation Vr,34.32,9,4,Joven,Media,True,True
+759,39,Other,Htc Vive,54.46,8,1,Adulto joven,Larga,False,True
+760,32,Female,Htc Vive,54.69,7,3,Adulto joven,Larga,False,True
+761,47,Male,Oculus Rift,25.81,8,2,Adulto,Media,False,True
+762,53,Other,Playstation Vr,8.95,1,1,Adulto,Corta,False,False
+763,59,Male,Oculus Rift,11.96,7,4,Adulto mayor,Corta,True,True
+764,36,Female,Htc Vive,18.25,7,4,Adulto joven,Media,True,True
+765,28,Male,Htc Vive,26.86,10,1,Adulto joven,Media,False,True
+766,52,Male,Htc Vive,54.65,10,5,Adulto,Larga,True,True
+767,42,Female,Oculus Rift,13.8,10,2,Adulto,Corta,False,True
+768,50,Male,Oculus Rift,55.81,8,2,Adulto,Larga,False,True
+769,23,Male,Htc Vive,35.16,1,4,Joven,Larga,True,False
+770,50,Other,Oculus Rift,47.91,9,4,Adulto,Larga,True,True
+771,33,Other,Oculus Rift,16.76,1,2,Adulto joven,Media,False,False
+772,29,Male,Playstation Vr,54.05,4,4,Adulto joven,Larga,True,False
+773,46,Male,Htc Vive,37.22,1,2,Adulto,Larga,False,False
+774,31,Female,Htc Vive,54.22,6,3,Adulto joven,Larga,False,False
+775,33,Female,Htc Vive,5.87,2,1,Adulto joven,Corta,False,False
+776,23,Male,Oculus Rift,10.17,3,1,Joven,Corta,False,False
+777,38,Male,Htc Vive,27.78,5,4,Adulto joven,Media,True,False
+778,60,Other,Htc Vive,54.03,2,4,Adulto mayor,Larga,True,False
+779,30,Female,Playstation Vr,28.99,7,1,Adulto joven,Media,False,True
+780,47,Other,Playstation Vr,30.84,7,4,Adulto,Media,True,True
+781,49,Other,Playstation Vr,38.74,6,5,Adulto,Larga,True,False
+782,42,Other,Oculus Rift,14.82,9,4,Adulto,Corta,True,True
+783,57,Female,Oculus Rift,32.48,1,5,Adulto mayor,Media,True,False
+784,23,Male,Htc Vive,43.87,7,5,Joven,Larga,True,True
+785,46,Other,Playstation Vr,26.7,4,2,Adulto,Media,False,False
+786,26,Female,Playstation Vr,16.27,2,5,Adulto joven,Media,True,False
+787,38,Male,Playstation Vr,55.87,9,4,Adulto joven,Larga,True,True
+788,53,Male,Htc Vive,42.26,2,5,Adulto,Larga,True,False
+789,39,Male,Htc Vive,42.07,2,2,Adulto joven,Larga,False,False
+790,47,Female,Oculus Rift,42.11,5,4,Adulto,Larga,True,False
+791,32,Male,Htc Vive,57.2,5,4,Adulto joven,Larga,True,False
+792,19,Other,Htc Vive,52.62,6,5,Joven,Larga,True,False
+793,52,Male,Playstation Vr,28.82,5,4,Adulto,Media,True,False
+794,22,Male,Oculus Rift,12.01,10,4,Joven,Corta,True,True
+795,47,Male,Oculus Rift,9.59,8,4,Adulto,Corta,True,True
+796,49,Other,Oculus Rift,27.63,1,1,Adulto,Media,False,False
+797,54,Male,Oculus Rift,41.58,5,3,Adulto,Larga,False,False
+798,33,Female,Oculus Rift,11.35,1,2,Adulto joven,Corta,False,False
+799,48,Other,Playstation Vr,14.96,4,3,Adulto,Corta,False,False
+800,37,Male,Playstation Vr,31.08,1,5,Adulto joven,Media,True,False
+801,54,Female,Playstation Vr,38.38,6,2,Adulto,Larga,False,False
+802,60,Other,Playstation Vr,10.06,8,1,Adulto mayor,Corta,False,True
+803,28,Male,Oculus Rift,44.77,8,4,Adulto joven,Larga,True,True
+804,51,Other,Playstation Vr,44.95,4,4,Adulto,Larga,True,False
+805,53,Female,Oculus Rift,15.81,7,5,Adulto,Media,True,True
+806,30,Male,Oculus Rift,29.12,10,1,Adulto joven,Media,False,True
+807,49,Other,Htc Vive,37.01,10,2,Adulto,Larga,False,True
+808,38,Other,Htc Vive,45.92,2,3,Adulto joven,Larga,False,False
+809,45,Other,Oculus Rift,59.77,7,3,Adulto,Larga,False,True
+810,53,Male,Htc Vive,18.24,6,4,Adulto,Media,True,False
+811,28,Male,Htc Vive,41.21,1,3,Adulto joven,Larga,False,False
+812,37,Other,Playstation Vr,32.28,8,2,Adulto joven,Media,False,True
+813,23,Other,Playstation Vr,5.89,8,2,Joven,Corta,False,True
+814,53,Other,Htc Vive,15.14,9,2,Adulto,Media,False,True
+815,28,Male,Oculus Rift,51.1,7,5,Adulto joven,Larga,True,True
+816,28,Other,Htc Vive,6.26,2,3,Adulto joven,Corta,False,False
+817,31,Male,Playstation Vr,6.37,7,2,Adulto joven,Corta,False,True
+818,43,Male,Htc Vive,31.35,3,3,Adulto,Media,False,False
+819,46,Female,Oculus Rift,39.76,6,5,Adulto,Larga,True,False
+820,49,Other,Htc Vive,43.38,3,5,Adulto,Larga,True,False
+821,20,Female,Playstation Vr,13.88,10,2,Joven,Corta,False,True
+822,24,Male,Htc Vive,57.18,2,1,Joven,Larga,False,False
+823,35,Other,Playstation Vr,41.84,9,2,Adulto joven,Larga,False,True
+824,55,Male,Oculus Rift,12.46,7,1,Adulto mayor,Corta,False,True
+825,32,Female,Htc Vive,53.15,4,5,Adulto joven,Larga,True,False
+826,26,Other,Playstation Vr,21.58,3,1,Adulto joven,Media,False,False
+827,52,Male,Htc Vive,33.76,8,5,Adulto,Media,True,True
+828,40,Female,Playstation Vr,58.61,7,5,Adulto,Larga,True,True
+829,26,Male,Oculus Rift,9.84,4,1,Adulto joven,Corta,False,False
+830,22,Other,Htc Vive,19.64,8,5,Joven,Media,True,True
+831,28,Male,Playstation Vr,11.1,2,1,Adulto joven,Corta,False,False
+832,53,Male,Htc Vive,42.71,6,1,Adulto,Larga,False,False
+833,55,Male,Htc Vive,56.17,7,4,Adulto mayor,Larga,True,True
+834,39,Female,Playstation Vr,9.93,5,1,Adulto joven,Corta,False,False
+835,43,Male,Playstation Vr,12.67,8,2,Adulto,Corta,False,True
+836,54,Female,Playstation Vr,33.11,6,5,Adulto,Media,True,False
+837,29,Other,Playstation Vr,7.66,6,5,Adulto joven,Corta,True,False
+838,24,Male,Htc Vive,42.1,2,4,Joven,Larga,True,False
+839,40,Female,Playstation Vr,30.13,8,2,Adulto,Media,False,True
+840,35,Female,Playstation Vr,30.93,5,4,Adulto joven,Media,True,False
+841,40,Female,Playstation Vr,51.51,6,2,Adulto,Larga,False,False
+842,38,Female,Playstation Vr,19.46,6,1,Adulto joven,Media,False,False
+843,33,Female,Playstation Vr,27.58,4,5,Adulto joven,Media,True,False
+844,26,Female,Playstation Vr,58.05,5,2,Adulto joven,Larga,False,False
+845,33,Female,Oculus Rift,37.79,10,4,Adulto joven,Larga,True,True
+846,22,Male,Playstation Vr,6.77,6,3,Joven,Corta,False,False
+847,48,Male,Htc Vive,23.1,7,4,Adulto,Media,True,True
+848,45,Female,Oculus Rift,8.51,5,5,Adulto,Corta,True,False
+849,25,Female,Htc Vive,49.48,2,4,Adulto joven,Larga,True,False
+850,59,Other,Oculus Rift,46.16,9,1,Adulto mayor,Larga,False,True
+851,55,Male,Oculus Rift,9.86,6,1,Adulto mayor,Corta,False,False
+852,21,Other,Playstation Vr,50.34,9,4,Joven,Larga,True,True
+853,49,Female,Oculus Rift,29.96,7,2,Adulto,Media,False,True
+854,54,Other,Oculus Rift,54.65,5,5,Adulto,Larga,True,False
+855,37,Female,Playstation Vr,12.16,3,4,Adulto joven,Corta,True,False
+856,30,Female,Playstation Vr,50.35,5,3,Adulto joven,Larga,False,False
+857,26,Male,Htc Vive,8.61,7,1,Adulto joven,Corta,False,True
+858,21,Female,Playstation Vr,41.16,10,5,Joven,Larga,True,True
+859,38,Male,Oculus Rift,28.64,10,3,Adulto joven,Media,False,True
+860,27,Female,Playstation Vr,6.65,1,4,Adulto joven,Corta,True,False
+861,19,Other,Playstation Vr,36.08,5,2,Joven,Larga,False,False
+862,57,Other,Oculus Rift,6.13,5,3,Adulto mayor,Corta,False,False
+863,30,Male,Oculus Rift,35.86,3,1,Adulto joven,Larga,False,False
+864,37,Male,Htc Vive,9.29,3,4,Adulto joven,Corta,True,False
+865,26,Other,Htc Vive,47.59,9,5,Adulto joven,Larga,True,True
+866,53,Female,Playstation Vr,42.61,2,4,Adulto,Larga,True,False
+867,39,Female,Oculus Rift,42.27,9,2,Adulto joven,Larga,False,True
+868,21,Other,Oculus Rift,53.44,7,4,Joven,Larga,True,True
+869,50,Female,Playstation Vr,57.41,1,3,Adulto,Larga,False,False
+870,51,Male,Oculus Rift,43.94,5,5,Adulto,Larga,True,False
+871,45,Other,Htc Vive,9.39,8,2,Adulto,Corta,False,True
+872,57,Other,Playstation Vr,8.83,3,5,Adulto mayor,Corta,True,False
+873,22,Female,Oculus Rift,58.93,3,5,Joven,Larga,True,False
+874,59,Other,Htc Vive,53.21,9,1,Adulto mayor,Larga,False,True
+875,31,Female,Htc Vive,38.28,1,3,Adulto joven,Larga,False,False
+876,19,Other,Htc Vive,31.44,1,2,Joven,Media,False,False
+877,35,Other,Htc Vive,47.28,9,5,Adulto joven,Larga,True,True
+878,50,Male,Oculus Rift,52.36,7,4,Adulto,Larga,True,True
+879,40,Male,Oculus Rift,30.2,3,4,Adulto,Media,True,False
+880,44,Other,Oculus Rift,31.71,2,4,Adulto,Media,True,False
+881,43,Other,Playstation Vr,5.52,5,1,Adulto,Corta,False,False
+882,53,Other,Oculus Rift,14.88,4,5,Adulto,Corta,True,False
+883,27,Other,Htc Vive,37.58,9,2,Adulto joven,Larga,False,True
+884,53,Other,Playstation Vr,52.73,2,5,Adulto,Larga,True,False
+885,48,Female,Oculus Rift,41.51,3,3,Adulto,Larga,False,False
+886,44,Other,Playstation Vr,56.7,9,5,Adulto,Larga,True,True
+887,28,Female,Oculus Rift,37.98,6,3,Adulto joven,Larga,False,False
+888,19,Other,Playstation Vr,17.97,8,1,Joven,Media,False,True
+889,33,Male,Htc Vive,13.5,2,2,Adulto joven,Corta,False,False
+890,36,Other,Htc Vive,40.95,8,1,Adulto joven,Larga,False,True
+891,22,Other,Htc Vive,18.3,9,2,Joven,Media,False,True
+892,57,Male,Oculus Rift,29.22,1,2,Adulto mayor,Media,False,False
+893,60,Female,Oculus Rift,29.72,4,3,Adulto mayor,Media,False,False
+894,38,Female,Playstation Vr,26.46,10,4,Adulto joven,Media,True,True
+895,23,Male,Htc Vive,49.0,2,4,Joven,Larga,True,False
+896,36,Other,Playstation Vr,10.45,1,3,Adulto joven,Corta,False,False
+897,45,Male,Playstation Vr,55.2,6,2,Adulto,Larga,False,False
+898,34,Male,Oculus Rift,13.43,5,3,Adulto joven,Corta,False,False
+899,49,Male,Playstation Vr,46.35,7,2,Adulto,Larga,False,True
+900,50,Female,Oculus Rift,46.62,9,5,Adulto,Larga,True,True
+901,50,Other,Playstation Vr,11.8,6,3,Adulto,Corta,False,False
+902,42,Male,Playstation Vr,51.76,5,2,Adulto,Larga,False,False
+903,30,Other,Oculus Rift,48.19,8,3,Adulto joven,Larga,False,True
+904,46,Male,Oculus Rift,32.99,6,2,Adulto,Media,False,False
+905,48,Other,Oculus Rift,29.88,1,3,Adulto,Media,False,False
+906,24,Male,Playstation Vr,28.1,2,3,Joven,Media,False,False
+907,58,Other,Playstation Vr,58.34,9,4,Adulto mayor,Larga,True,True
+908,31,Other,Playstation Vr,41.43,1,2,Adulto joven,Larga,False,False
+909,27,Other,Playstation Vr,46.26,6,3,Adulto joven,Larga,False,False
+910,30,Other,Playstation Vr,53.95,9,4,Adulto joven,Larga,True,True
+911,41,Other,Oculus Rift,30.76,4,1,Adulto,Media,False,False
+912,45,Male,Oculus Rift,24.35,4,4,Adulto,Media,True,False
+913,38,Male,Playstation Vr,16.53,6,4,Adulto joven,Media,True,False
+914,42,Other,Htc Vive,51.9,6,4,Adulto,Larga,True,False
+915,41,Male,Htc Vive,13.95,10,2,Adulto,Corta,False,True
+916,41,Female,Oculus Rift,37.63,8,1,Adulto,Larga,False,True
+917,39,Other,Htc Vive,40.96,10,2,Adulto joven,Larga,False,True
+918,20,Male,Htc Vive,44.68,3,1,Joven,Larga,False,False
+919,18,Female,Oculus Rift,59.98,6,5,Joven,Larga,True,False
+920,20,Female,Playstation Vr,11.53,3,2,Joven,Corta,False,False
+921,40,Male,Oculus Rift,29.06,5,2,Adulto,Media,False,False
+922,20,Female,Htc Vive,54.03,8,2,Joven,Larga,False,True
+923,25,Female,Htc Vive,53.74,3,1,Adulto joven,Larga,False,False
+924,39,Male,Oculus Rift,51.71,10,3,Adulto joven,Larga,False,True
+925,47,Other,Playstation Vr,51.74,6,3,Adulto,Larga,False,False
+926,34,Female,Playstation Vr,55.55,5,3,Adulto joven,Larga,False,False
+927,44,Male,Oculus Rift,6.8,3,4,Adulto,Corta,True,False
+928,57,Male,Oculus Rift,35.53,8,4,Adulto mayor,Larga,True,True
+929,29,Female,Oculus Rift,38.06,1,2,Adulto joven,Larga,False,False
+930,44,Other,Htc Vive,52.64,10,2,Adulto,Larga,False,True
+931,39,Other,Htc Vive,7.35,8,4,Adulto joven,Corta,True,True
+932,58,Other,Oculus Rift,49.92,5,1,Adulto mayor,Larga,False,False
+933,32,Other,Playstation Vr,17.08,8,1,Adulto joven,Media,False,True
+934,31,Male,Playstation Vr,37.25,10,2,Adulto joven,Larga,False,True
+935,38,Other,Htc Vive,22.81,3,2,Adulto joven,Media,False,False
+936,27,Other,Oculus Rift,28.68,7,5,Adulto joven,Media,True,True
+937,59,Other,Htc Vive,48.22,9,2,Adulto mayor,Larga,False,True
+938,56,Male,Oculus Rift,12.15,10,3,Adulto mayor,Corta,False,True
+939,29,Other,Htc Vive,29.04,5,3,Adulto joven,Media,False,False
+940,31,Female,Playstation Vr,34.25,6,5,Adulto joven,Media,True,False
+941,33,Other,Oculus Rift,35.96,3,2,Adulto joven,Larga,False,False
+942,36,Female,Oculus Rift,11.18,3,4,Adulto joven,Corta,True,False
+943,52,Other,Playstation Vr,27.37,1,3,Adulto,Media,False,False
+944,24,Male,Playstation Vr,15.61,3,3,Joven,Media,False,False
+945,46,Male,Playstation Vr,8.29,1,2,Adulto,Corta,False,False
+946,34,Other,Playstation Vr,31.56,5,4,Adulto joven,Media,True,False
+947,45,Female,Oculus Rift,28.43,7,2,Adulto,Media,False,True
+948,60,Other,Htc Vive,39.26,7,4,Adulto mayor,Larga,True,True
+949,25,Female,Htc Vive,41.91,8,5,Adulto joven,Larga,True,True
+950,28,Other,Oculus Rift,16.22,5,4,Adulto joven,Media,True,False
+951,42,Male,Htc Vive,9.51,10,1,Adulto,Corta,False,True
+952,48,Male,Playstation Vr,27.42,7,4,Adulto,Media,True,True
+953,23,Female,Oculus Rift,30.83,10,4,Joven,Media,True,True
+954,25,Female,Playstation Vr,35.42,9,4,Adulto joven,Larga,True,True
+955,27,Male,Htc Vive,58.95,6,4,Adulto joven,Larga,True,False
+956,39,Male,Htc Vive,53.99,9,4,Adulto joven,Larga,True,True
+957,60,Other,Htc Vive,23.75,2,4,Adulto mayor,Media,True,False
+958,23,Female,Htc Vive,20.34,7,3,Joven,Media,False,True
+959,28,Other,Oculus Rift,23.48,10,4,Adulto joven,Media,True,True
+960,58,Female,Playstation Vr,12.67,8,1,Adulto mayor,Corta,False,True
+961,34,Male,Htc Vive,45.64,3,3,Adulto joven,Larga,False,False
+962,35,Other,Oculus Rift,58.54,5,5,Adulto joven,Larga,True,False
+963,53,Other,Oculus Rift,53.25,10,3,Adulto,Larga,False,True
+964,42,Female,Playstation Vr,19.3,6,3,Adulto,Media,False,False
+965,46,Male,Htc Vive,23.26,7,1,Adulto,Media,False,True
+966,44,Other,Oculus Rift,25.52,7,1,Adulto,Media,False,True
+967,58,Male,Playstation Vr,11.73,8,2,Adulto mayor,Corta,False,True
+968,60,Female,Playstation Vr,20.5,3,2,Adulto mayor,Media,False,False
+969,27,Other,Htc Vive,45.77,5,2,Adulto joven,Larga,False,False
+970,55,Male,Playstation Vr,43.71,10,3,Adulto mayor,Larga,False,True
+971,50,Female,Playstation Vr,42.91,7,2,Adulto,Larga,False,True
+972,52,Other,Htc Vive,16.99,3,3,Adulto,Media,False,False
+973,54,Other,Oculus Rift,54.62,6,2,Adulto,Larga,False,False
+974,27,Female,Playstation Vr,29.18,6,4,Adulto joven,Media,True,False
+975,35,Female,Oculus Rift,8.13,7,2,Adulto joven,Corta,False,True
+976,56,Other,Oculus Rift,29.49,8,5,Adulto mayor,Media,True,True
+977,60,Other,Playstation Vr,11.36,4,5,Adulto mayor,Corta,True,False
+978,31,Other,Oculus Rift,11.66,6,4,Adulto joven,Corta,True,False
+979,41,Male,Htc Vive,44.79,5,5,Adulto,Larga,True,False
+980,57,Male,Htc Vive,29.77,7,1,Adulto mayor,Media,False,True
+981,27,Male,Htc Vive,47.28,2,4,Adulto joven,Larga,True,False
+982,53,Female,Playstation Vr,43.51,6,2,Adulto,Larga,False,False
+983,20,Female,Htc Vive,57.16,10,4,Joven,Larga,True,True
+984,18,Female,Playstation Vr,18.08,8,5,Joven,Media,True,True
+985,29,Male,Oculus Rift,27.09,2,4,Adulto joven,Media,True,False
+986,48,Male,Htc Vive,10.55,8,5,Adulto,Corta,True,True
+987,23,Male,Oculus Rift,30.41,9,4,Joven,Media,True,True
+988,25,Female,Oculus Rift,32.55,6,1,Adulto joven,Media,False,False
+989,42,Female,Oculus Rift,28.63,5,4,Adulto,Media,True,False
+990,56,Male,Playstation Vr,23.1,8,2,Adulto mayor,Media,False,True
+991,33,Female,Htc Vive,54.91,3,5,Adulto joven,Larga,True,False
+992,52,Female,Oculus Rift,12.69,4,4,Adulto,Corta,True,False
+993,37,Female,Oculus Rift,9.17,7,5,Adulto joven,Corta,True,True
+994,24,Other,Htc Vive,48.77,8,3,Joven,Larga,False,True
+995,24,Other,Htc Vive,15.84,2,2,Joven,Media,False,False
+996,30,Male,Htc Vive,14.66,9,2,Adulto joven,Corta,False,True
+997,57,Other,Oculus Rift,25.17,7,5,Adulto mayor,Media,True,True
+998,35,Other,Playstation Vr,37.58,7,2,Adulto joven,Larga,False,True
+999,52,Male,Playstation Vr,27.57,7,2,Adulto,Media,False,True
+1000,46,Female,Playstation Vr,37.51,7,3,Adulto,Larga,False,True

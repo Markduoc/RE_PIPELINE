@@ -1,14 +1,15 @@
 import os
 import shutil
+import glob
 from datetime import datetime
 
-#Definir rutas de los archivos
-origen = "data/landing/dataset_retinopatia_simulado.csv"
-destino = f"data/raw/ingesta_{datetime.now().strftime('%Y-%m-%d')}.csv"
+# Buscar cualquier CSV en landing/
+archivos = glob.glob("data/landing/*.csv")
 
-#control de errores
-if os.path.exists(origen):
+if archivos:
+    origen = archivos[0]  # toma el primero que encuentre
+    destino = f"data/raw/ingesta_{datetime.now().strftime('%Y-%m-%d')}.csv"
     shutil.move(origen, destino)
     print(f"Exito! datos movidos hacia {destino}")
 else:
-    print(f"Error! no se ha encontrado el archivo de origen")
+    print(f"Error! no se ha encontrado ningún archivo CSV en data/landing/")
