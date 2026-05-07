@@ -1,0 +1,4 @@
+#Ignora archivos de configuración y variables de entorno
+*.env
+/Wallet_REPIPELINE
+Wallet_REPIPELINE.zip
