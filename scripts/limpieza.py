@@ -106,7 +106,7 @@ df["HighImmersion"] = df["ImmersionLevel"] >= 4
 # 5.4 Indicador de mareo severo (MotionSickness >= 7)
 df["SevereSickness"] = df["MotionSickness"] >= 7
 
-# 6. GUARDAR (Tu código original)
+# 6. GUARDAR 
 os.makedirs("data/processed", exist_ok=True)
 ruta_salida = "data/processed/dataset_limpio.csv"
 df.to_csv(ruta_salida, index=False)
@@ -114,9 +114,8 @@ df.to_csv(ruta_salida, index=False)
 print(f"\nArchivo guardado en: {ruta_salida}")
 print("✓ Limpieza y transformación completada exitosamente.")
 
-# --- NUEVO: BORRAR EL ARCHIVO DE RAW TRAS EL PROCESAMIENTO ---
 try:
     os.remove(ruta_entrada)
-    print(f"🗑️ Archivo temporal eliminado de raw: {ruta_entrada}")
+    print(f"Archivo temporal eliminado de raw: {ruta_entrada}")
 except Exception as e:
-    print(f"⚠️ No se pudo eliminar el archivo de raw: {e}")
+    print(f"No se pudo eliminar el archivo de raw: {e}")
